@@ -14,7 +14,7 @@
 
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, grid, video">
 	
 		<image name="logo">
 			<path>./../assets/Phillips.png</path>

@@ -17,7 +17,7 @@
 	<view name="basic, detailed">
 	
 		<image name="logo">
-			<path>./../assets/Nintendo.png</path>
+			<path>./../assets/Hudson.png</path>
 		</image>
 		
 		<textlist name="gamelist">

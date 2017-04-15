@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>241d1d</color>
+			<color>c20000</color>
 		</image>
 
 		<image name="logo">
@@ -14,7 +14,7 @@
 
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, video">
 	
 		<image name="logo">
 			<path>./../assets/Coleco.png</path>

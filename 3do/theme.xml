@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>241d1d</color>
+			<color>0038c3</color>
 		</image>
 
 		<image name="logo">
@@ -14,7 +14,7 @@
 
 	</view>
 
-	<view name="basic, detailed, grid, video">
+	<view name="basic, detailed, video">
 	
 		<image name="logo">
 			<path>./../assets/Panasonic.png</path>

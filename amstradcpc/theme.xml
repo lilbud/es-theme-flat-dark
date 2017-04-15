@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>241d1d</color>
+			<color>933631</color>
 		</image>
 
 		<image name="logo">

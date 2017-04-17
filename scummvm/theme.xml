@@ -17,7 +17,7 @@
 	<view name="basic, detailed, video">
 	
 		<image name="logo">
-			<path>./../assets/Scummvm.png</path>
+			<path>./../assets/ScummVM.png</path>
 		</image>
 		
 		<textlist name="gamelist">

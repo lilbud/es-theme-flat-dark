@@ -206,12 +206,12 @@ license:		creative commons CC-BY-NC-SA
       <maxLogoCount>5</maxLogoCount>
     </carousel>
 
-    <infobar name="infobar">
-      <color>dddddd00</color>
-      <fontColor>000000ff</fontColor>
+   <text name="systemInfo">
+      <backgroundColor>dddddd00</backgroundColor>
+      <color>00000000</color>
       <fontPath></fontPath>
       <fontSize>0.035</fontSize>
-    </infobar>
+    </text>
 
   </view>
 

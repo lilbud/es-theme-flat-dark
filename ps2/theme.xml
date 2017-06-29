@@ -1,0 +1,42 @@
+<theme>
+    <formatVersion>4</formatVersion>
+	<include>./../Switch.xml</include>
+
+	<view name="system">
+
+		<image name="logo">
+			<path>./system.png</path>
+		</image>
+		
+		<text name="system_name_1" extra="true">
+			<text>Sony Playstation 2</text>
+			<forceUppercase>0</forceUppercase>
+			<size>0.743 0.015</size>
+			<pos>0.06 0.25</pos>
+			<color>178ad2</color>
+			<fontPath>./../assets/Oxygen-Regular.ttf</fontPath>
+			<fontSize>0.04</fontSize>
+			<alignment>left</alignment>
+		</text>
+
+	</view>
+
+	<view name="basic, detailed, video">	
+		
+		<text name="system_name_1" extra="true">
+			<text>Sony Playstation</text>
+			<forceUppercase>0</forceUppercase>
+			<size>0.743 0.031</size>
+			<pos>0.034 0.065</pos>
+			<color>fefefe</color>
+			<fontPath>./../assets/Oxygen-Regular.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<alignment>left</alignment>
+		</text>
+	
+	</view>
+	
+	<view name="detailed">
+	</view>
+
+</theme>
